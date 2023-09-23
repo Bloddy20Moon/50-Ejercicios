@@ -43,7 +43,8 @@
   
   ![image](https://github.com/Bloddy20Moon/50-Ejercicios/assets/118792974/aa894d5f-5f1d-4974-92fb-01094f360fee)
   
-  [Ver el video](https://github.com/Bloddy20Moon/50-Ejercicios/assets/118792974/e1a91ef9-a013-46a0-9c06-a956432b9e85)
+
+  [Ver el video](https://github.com/Bloddy20Moon/50-Ejercicios/assets/118792974/26f3576a-f7d1-4db0-b327-5258f0a8f17d)
 </details>
 
 6. **Proyecto 06 - Scroll con Animaciones**
