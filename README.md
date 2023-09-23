@@ -1,5 +1,5 @@
-# 50Proyecots para Mejora
-Son 50 y espero subirlo día por día
+# 50 Proyectos para Mejora
+50 Proyecto
 
 1. **Proyecto 01 - Tarjetas Expansibles**
 <details>
